@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/zz"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zo"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zt"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zth"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zfo"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zfi"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+    <ImageView
+        android:id="@+id/zsix"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zse"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zeig"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zni"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zten"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+
+    <ImageView
+        android:id="@+id/zel"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_margin="5dp"
+        android:background="#FF0000" />
+    </TableRow>
+    <!--2-->
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/oz"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/ot"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/ofo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/ofi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/osix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/ose"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oeig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/oel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/tz"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/to"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tt"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tfo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tfi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/tsix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tse"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/teig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/thz"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tho"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/tht"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thfo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thfi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/thsix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thse"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/theig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/thel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/z"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fot"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fofo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fofi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/fosix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fose"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foeig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/foel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/fiz"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fio"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fit"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fith"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fifo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fifi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/fisix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fise"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fieig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fini"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fiten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/fiel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/sixz"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixt"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixfo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixfi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/sixsix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixse"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixeig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sixel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+    <TableRow
+        android:layout_margin="2dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/sez"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/set"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seth"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sefo"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sefi"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+        <ImageView
+            android:id="@+id/sesix"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/sese"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seeig"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seni"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seten"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+
+        <ImageView
+            android:id="@+id/seel"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="5dp"
+            android:background="#FF0000" />
+    </TableRow>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:onClick="culculate"
+        />
+</TableLayout>
